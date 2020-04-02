@@ -1,0 +1,81 @@
+/*找电池*/
+.product .li{
+	border-top: 1px solid #ccc;
+	margin-top: 30px;
+}
+.product .li li{
+	height: 140px;
+	border-bottom: 1px solid #ccc;
+}
+.product .li .left{
+	float: left;
+	width: 200px;
+}
+.product .li .left img{
+	width: 120px;
+	height: 120px;
+	margin: 8px;
+}
+.product .li .center{
+	float: left;
+	margin-top: 20px;
+}
+.product .li .center a{
+	font-size: 24px;
+}
+.product .li .center p{
+	width: 100%;
+	background-color:#96a1aa;
+	border-radius: 30px;
+	font-size: 18px;
+	text-align: center;
+	margin-top: 5px;
+}
+.product .li .center span{
+	color: #8e8c8c;
+	margin-left: 50px;
+	line-height: 34px;
+}
+.product .li .right span{
+	font-size: 20px;
+	color: #8e8c8c;
+  line-height: 150px;
+  float: right;
+}
+/*行业资讯*/
+.news .li{
+	margin-top: 20px;
+}
+.news .li .left{
+	float: left;
+	width: 200px;
+}
+.news .li .left img{
+	width: 150px;
+	height: 150px;
+}
+.news .li .right{
+	float: left;
+	width: 600px;
+}
+.news .li .right h3{
+	font-size: 20px;
+	color: blue;
+}
+.news .li .right p{
+	text-indent: 2em;
+	font-size: 14px;
+	 position: relative;
+    font-size: 14px;
+    line-height: 2em;
+    height: 8em;
+    overflow: hidden;
+}
+.news .li .right a{
+	color: #646262;
+}
+.news .li .right a:hover{
+	text-decoration: none;
+}
+
+
